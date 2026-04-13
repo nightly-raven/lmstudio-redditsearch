@@ -1,0 +1,7 @@
+{
+  "type": "plugin",
+  "runner": "node",
+  "owner": "nightly-raven",
+  "name": "reddit-search",
+  "revision": 2
+}

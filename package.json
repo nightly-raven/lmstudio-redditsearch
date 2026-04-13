@@ -1,0 +1,28 @@
+{
+  "name": "reddit-search",
+  "version": "0.0.1",
+  "description": "LM Studio plugin and TypeScript helper for structured Reddit search actions.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "dev": "lms dev",
+    "start": "tsc && node --enable-source-maps dist/index.js",
+    "build": "tsc",
+    "test": "npm run build && node --test test/**/*.test.js"
+  },
+  "author": "Nightly Raven",
+  "license": "MIT",
+  "dependencies": {
+    "@lmstudio/sdk": "^1.5.0",
+    "axios": "^1.15.0",
+    "zod": "^4.3.6"
+  },
+  "gitHead": "d95ce2feb067b4eec446c673155631ee1734e982",
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.7.2"
+  }
+}
