@@ -1,6 +1,6 @@
 # LM Studio Reddit Search Plugin
 
-A TypeScript-based Reddit search plugin for [LM Studio](https://lmstudio.ai/). It exposes Reddit discussion search as a structured LM Studio tool, with configurable defaults for subreddit targeting, citation count, comment inclusion, and NSFW filtering.
+A TypeScript-based Reddit search plugin for [LM Studio](https://lmstudio.ai/). It exposes Reddit discussion search as a structured LM Studio tool, with configurable defaults for subreddit targeting, citation count, comment inclusion, and NSFW filtering. Install it here: https://lmstudio.ai/nightly-raven/reddit-search
 
 <p> <a href="https://ko-fi.com/nightlyraven" target="_blank"> <img src="https://ko-fi.com/img/githubbutton_sm.svg"/> </a> </p>
 
